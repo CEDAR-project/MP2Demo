@@ -7,4 +7,4 @@ Demo testing the achievements of the second iteration of the MiniProjects
 
 * Python 2.7.3
 * rdflib, SPARQLWrapper libraries
-* Local SPARQL endpoint with some census triples loaded
+* Local SPARQL endpoint with some census triples loaded (see https://github.com/CEDAR-project/DataDump/)
